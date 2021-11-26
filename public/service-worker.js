@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2d9d102b15741caf404f035de059d702.js"
+  "/precache-manifest.8184dc156e2b86efd364acb48e77d18d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "employees"});
